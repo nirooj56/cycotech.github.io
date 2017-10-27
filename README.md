@@ -10,3 +10,11 @@
   <a href="https://twitter.com/cycotechnology" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/sympletts-part-2/128/circle-social-twitter-48.png" alt="Twitter"></a>
   <br>
 </h1>
+
+
+
+## Screenshot of cycotech.github.io
+
+<p align="center">
+<img src="https://github.com/nirooj56/cycotech.github.io/blob/master/screenshot.gif" title="Screenshot">
+</p>
