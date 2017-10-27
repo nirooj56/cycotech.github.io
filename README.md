@@ -5,8 +5,8 @@
   Cyco Technology Inc.
   <br>
   <br>
-  <a href="https://www.facebook.com/etcpostofficial/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/sympletts-part-2/128/circle-social-facebook-48.png" alt="Facebook"></a>
-  <a href="https://www.instagram.com/etcpostofficial/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/sympletts-part-2/128/circle-social-instagram-48.png" alt="Instagram"></a>
-  <a href="https://twitter.com/etcpostofficial" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/sympletts-part-2/128/circle-social-twitter-48.png" alt="Twitter"></a>
+  <a href="https://www.facebook.com/cycotechnologies/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/sympletts-part-2/128/circle-social-facebook-48.png" alt="Facebook"></a>
+  <a href="https://cycotech.github.io" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/browsers-1/512/Browser_I-48.png" alt="Website"></a>
+  <a href="https://twitter.com/cycotechnology" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/sympletts-part-2/128/circle-social-twitter-48.png" alt="Twitter"></a>
   <br>
 </h1>
